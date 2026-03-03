@@ -17,6 +17,7 @@ public class RemoveDuplicate {
 
             if(count == 0) {
                 System.out.print(arr[i] + " ");
+                System.out.print(arr[i] + " ");
             }
         }
     }
