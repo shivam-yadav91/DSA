@@ -6,5 +6,6 @@ public class sum_of_elements{
             sum = sum + a[i];
         }
     System.out.println("sum_of_elements is:"  + sum);
+    System.out.println("sum_of_elements is:"  + sum);
     }
 }
