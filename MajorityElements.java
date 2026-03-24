@@ -1,4 +1,4 @@
-public class MajorityElement {
+public class MajorityElements {
     public static void main(String[] args) {
         int[] arr = {7,0,1,7,1,7,7,7};
         int n = arr.length;
