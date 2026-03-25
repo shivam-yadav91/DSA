@@ -1,6 +1,6 @@
 // this algorithm --- find the max subarray sum in given array.
 
-public class KADANE_Algo {
+public class KADANE_algo {
     public static void main(String[] args) {
         int[] arr = {-5,4,3,6,-1,0};
         int sum = arr[0];
